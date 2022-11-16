@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "retail_analysis"
+  site-url: "https://Vipulc659.github.io/retail_analysis"
+  description: "A project created using nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/Vipulc659/retail_analysis"
